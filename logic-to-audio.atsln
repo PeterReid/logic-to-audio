@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "logic-to-audio", "logic-to-audio.asmproj", "{1AF7CC8F-5145-4053-9B1D-0A32706B421F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF7CC8F-5145-4053-9B1D-0A32706B421F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1AF7CC8F-5145-4053-9B1D-0A32706B421F}.Debug|AVR.Build.0 = Debug|AVR
+		{1AF7CC8F-5145-4053-9B1D-0A32706B421F}.Release|AVR.ActiveCfg = Release|AVR
+		{1AF7CC8F-5145-4053-9B1D-0A32706B421F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
